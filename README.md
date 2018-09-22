@@ -17,7 +17,7 @@
 
 （https://reactjs.org/）　　
 
-## ビルド方法
+## サンプルの起動方法
 
 1. git clone https://github.com/kojimaro/swarm-img-uploader.git
 
