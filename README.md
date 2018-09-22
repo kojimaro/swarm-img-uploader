@@ -37,6 +37,11 @@
 
 7. npm run start
 
+
+booooooooooon!!!
+
+![](http://kojiryo.com/wp-content/uploads/2018/09/8103c9ea0e4783c36bb04df6734a7238.png)
+
 ## ソースコード
 ### src/App.js
 ・ファイルのアップロード処理
