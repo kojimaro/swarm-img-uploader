@@ -32,3 +32,13 @@
 5. swarm-jsを「node_modules」配下にコピーして上書き
 
 6. npm run start
+
+## ソースコード
+### src/App.JS
+・ファイルのアップロード処理
+
+・状態管理
+
+### src/mainpage.js
+・uiの描画
+
