@@ -34,7 +34,7 @@
 6. npm run start
 
 ## ソースコード
-### src/App.JS
+### src/App.js
 ・ファイルのアップロード処理
 
 ・状態管理
