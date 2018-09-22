@@ -21,17 +21,21 @@
 
 1. git clone https://github.com/kojimaro/swarm-img-uploader.git
 
-2. npm install 
+2. ターミナルでswarm-img-uploaderに移動
 
-3. swarm-jsのgithubページからswarm-jsをダウンロード
+   cd swarm-img-uploader
 
-（https://github.com/MaiaVictor/swarm-js）　
+3. npm install 
 
-4. ファイルを解凍して「swarm-js」にディレクトリ名を変更
+4. swarm-jsのgithubページからswarm-jsをダウンロード
 
-5. swarm-jsを「node_modules」配下にコピーして上書き
+   （https://github.com/MaiaVictor/swarm-js）　
 
-6. npm run start
+5. ファイルを解凍して「swarm-js」にディレクトリ名を変更
+
+6. swarm-jsを「node_modules」配下にコピーして上書き
+
+7. npm run start
 
 ## ソースコード
 ### src/App.js
